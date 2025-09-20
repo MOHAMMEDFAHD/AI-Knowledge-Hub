@@ -88,7 +88,7 @@ Feel free to fork, share, and extend the work while giving proper credit.
 # 🌐 Knowledge Hub 
 
 Below is the full list of all  pages hosted under  
-**https://www.programming-ocean.com/knowledge-hub/**
+**https://www.programming-ocean.com/knowledge-hub.php**
 
 ---
 
