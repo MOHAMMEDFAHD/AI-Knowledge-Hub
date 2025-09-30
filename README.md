@@ -1,4 +1,4 @@
-# 🤖 AI Knowledge Hub
+# AI Knowledge Hub
 
 Welcome to the **AI Knowledge Hub** – a comprehensive repository designed to serve as a central reference for artificial intelligence, machine learning, and data science resources.  
 
@@ -6,23 +6,23 @@ This hub is part of the **Programming Ocean Academy** initiative, aiming to make
 
 ---
 
-## 📌 What is this Repository?
+## What is this Repository?
 
 The **AI Knowledge Hub** collects and organizes knowledge into structured modules (called *atlases*).  
 Each page in this repository corresponds to a focused concept, method, or field within AI, including:
 
-- 🧠 **Core AI Foundations** (mathematics, statistics, algorithms)  
-- 🏗 **Architectures** (CNNs, RNNs, Transformers, GANs, VAEs, etc.)  
-- 📊 **Evaluation & Metrics** (classification, regression, clustering)  
-- 🔧 **Engineering Tools & Workflows** (data pipelines, augmentation, feature engineering)  
-- 🌐 **Applications** (computer vision, NLP, business intelligence, education)  
-- 📚 **Philosophical & Ethical Issues** (interpretability, fairness, security, robustness)  
+- **Core AI Foundations** (mathematics, statistics, algorithms)  
+- **Architectures** (CNNs, RNNs, Transformers, GANs, VAEs, etc.)  
+- **Evaluation & Metrics** (classification, regression, clustering)  
+- **Engineering Tools & Workflows** (data pipelines, augmentation, feature engineering)  
+- **Applications** (computer vision, NLP, business intelligence, education)  
+- **Philosophical & Ethical Issues** (interpretability, fairness, security, robustness)  
 
 Each `.php` file in the repository links to a live knowledge page hosted on **[programming-ocean.com](https://www.programming-ocean.com/)**.  
 
 ---
 
-## 🎯 Goals of this Project
+## Goals of this Project
 
 - **Centralized Knowledge** – Bring together diverse AI topics in one structured hub.  
 - **Educational Resource** – Act as a self-learning guide for students and professionals.  
@@ -31,7 +31,7 @@ Each `.php` file in the repository links to a live knowledge page hosted on **[p
 
 ---
 
-## 🚀 Who is this For?
+## Who is this For?
 
 This repository is intended for:  
 
@@ -42,7 +42,7 @@ This repository is intended for:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 - Each file in the repo is a **dedicated atlas page**.  
 - Files follow the naming pattern:  
@@ -51,14 +51,14 @@ This repository is intended for:
 
 ---
 
-## 🌍 Live Pages
+## Live Pages
 
-At the bottom of this README, you’ll find a **full list of working links** to every  page in the Knowledge Hub.  
+At the bottom of this README, you’ll find a **full list of working links** to every page in the Knowledge Hub.  
 These links connect directly to the live hosted content on [programming-ocean.com](https://www.programming-ocean.com/).  
 
 ---
 
-## 🛠 How to Use
+## How to Use
 
 1. **Browse the README** → Jump to the section of interest using the indexed links.  
 2. **Open the Live Page** → Each link redirects to the official hosted page.  
@@ -66,7 +66,7 @@ These links connect directly to the live hosted content on [programming-ocean.co
 
 ---
 
-## 📢 Contributing
+## Contributing
 
 We welcome contributions to expand the **AI Knowledge Hub**!  
 
@@ -76,19 +76,19 @@ We welcome contributions to expand the **AI Knowledge Hub**!
 
 ---
 
-## 📜 License
+## License
 
 This repository is released under the **MIT License**.  
 Feel free to fork, share, and extend the work while giving proper credit.  
 
 ---
 
-## 🔗 Knowledge Hub Pages
+## Knowledge Hub Pages
 
-# 🌐 Knowledge Hub 
+# Knowledge Hub
 
-Below is the full list of all  pages hosted under  
-**https://www.programming-ocean.com/knowledge-hub.php**
+Below is the full list of all pages hosted under  
+**https://www.programming-ocean.com/knowledge-hub.php/**
 
 ---
 
